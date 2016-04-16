@@ -1,2 +1,1 @@
-# cnn-from-scratch
-Implementing Convolutional Neural Network from Scratch
+# Implementing Convolutional Neural Network from Scratch
